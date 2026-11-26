@@ -32,3 +32,16 @@ Sinta-se à vontade para sugerir melhorias ou novas ideias para exercícios. Se 
 
 ---
  Por: **Ivictors**
+
+## Padrão de documentação e configuração
+
+Este repositório existe para documentar a evolução dos estudos de orientação a objetos em Java. O README acima apresenta o escopo, a arquitetura e as tecnologias específicas do projeto; esta seção padroniza o ponto de entrada para quem deseja reproduzi-lo localmente.
+
+### Clonar e configurar
+
+~~~powershell
+git clone https://github.com/Ivictors/java-poo-estudos.git
+cd java-poo-estudos
+~~~
+
+Consulte os pré-requisitos e comandos de execução descritos neste README antes de iniciar. Use variáveis de ambiente, arquivos locais ignorados pelo Git e serviços de desenvolvimento para credenciais; não substitua placeholders por segredos no README e não versione chaves, tokens ou senhas.
